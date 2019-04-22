@@ -21,9 +21,7 @@ Class_ids file conatins mapping.Prepared_data.csv file contains data prepared.<b
  Then did train and test split.<br>
  
 <h3>3.Training Step</h3>
-I used two different methods for this :
 1.Transfer Learning on ULMFiT Architecture(pretrained language model on  Wikitext 103 dataset.<br>
-2.Created word embeddings and then built a neural architecture and then trained that on our dataset.
 
 
 
