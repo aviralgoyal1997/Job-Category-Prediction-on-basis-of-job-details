@@ -1,0 +1,30 @@
+ 'Administration': 0
+ 'Airline Ground Operations': 1
+ 'Analytics': 2
+ 'Back office ticketing': 3
+ 'Content': 4
+ 'Customer service': 5
+ 'Data entry': 6
+ 'Digital Marketing': 7
+ 'Engineering Design Construction': 8
+ 'Finance': 9
+ 'Flight Operations': 10
+ 'IT': 11
+ 'Learning and Development ': 12
+ 'Logistics': 13
+ 'Maintenance': 14
+ 'Management Consulting': 15
+ 'Marine Deck ': 16
+ 'Marine Engineering ': 17
+ 'Marine Service Steward ': 18
+ 'Marketing': 19
+ 'Operations': 20
+ 'Presales ': 21
+ 'Procurement': 22
+ 'Public Relations ': 23
+ 'QA ': 24
+ 'Recruitment': 25
+ 'Safety ': 26
+ 'Sales': 27
+ 'Technology': 28
+ 'Ticketing': 29
