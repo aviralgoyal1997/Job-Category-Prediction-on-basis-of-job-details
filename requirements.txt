@@ -1,0 +1,8 @@
+pandas
+numpy
+sklearn
+fastai
+functools
+json
+collections
+
